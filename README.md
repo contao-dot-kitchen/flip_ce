@@ -1,4 +1,4 @@
-# CountCE 
+# flip_ce
 
 flip_ce ist ein Contao-Frontend-Modul um einen Flip-Effekt zu generieren. Das ist quasi so als wenn man eine Vistenkarte dreht.
 
