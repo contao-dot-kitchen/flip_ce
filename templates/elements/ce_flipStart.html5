@@ -1,0 +1,7 @@
+<div class="<?= $this->class ?> block"<?= $this->cssID ?><?php if ($this->style): ?> style="<?= $this->style ?>"<?php endif; ?>>
+
+  <?php if ($this->headline): ?>
+    <<?= $this->hl ?>><?= $this->headline ?></<?= $this->hl ?>>
+  <?php endif; ?>
+
+  <div class="flipCard" id="flipCard_<?= $this->id; ?>"<?php if($this->css): ?> style="<?= $this->css; ?>"<?php endif; ?> >
