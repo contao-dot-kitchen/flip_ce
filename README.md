@@ -1,25 +1,26 @@
 # flip_ce
 
-flip_ce ist ein Contao-Frontend-Modul um einen Flip-Effekt zu generieren. Das ist quasi so als wenn man eine Vistenkarte dreht.
+flip_ce ist ein Contao-Frontend-Modul welches einen 3D-Dreheffekt erlaubt. Diesen Effekt kennt man vom wenden einer Visitenkarte. Es gibt eine Vor- und eine Rückseite die frei gestaltet werden kann. Fährt man über den Bereich wendet dieser sich von der Vor- zur Rückseite.
 
-## Demo 
+## Demo
 
-Folgt noch!
+Leider gibt es für dieses Modul noch keine Demo. Das wird aber noch geändert. Bis dahin probiere es doch einfach aus. 
 
-## JS-Libarys
+## Lizenz
 
-https://github.com/nnattawat/flip
+Dieses Modul ist genau wie Contao unter der LGPLv3 lizensiert. Weitere Informationen findest Du unter nachfolgendem Link: http://www.gnu.org/licenses/lgpl-3.0.de.html
+
+Die Rechte an den genutzten jQuery- und Javascript-Libarys sowie weiterem Fremdcode sind als solche gekennzeichnet und unterliegen den Rechten der jeweiligen Eigentümer!
 
 ## Spenden
 
-Danke das Du ein wenig was übrig hast für meine Arbeit. 
+Ich würde mich über eine geringfügige finanzielle Zuwendung freuen den meine Zeit ist auch begrenzt. Während ich freie Module entwickel kann ich leider kein Geld für Brötchen verdienen und Du verdient vielleicht gerade mit meinem Modul Geld. Deshalb darfst Du mir auch eine Kleinigkeit abgeben! Ich danke Dir ganz herzlich dafür. Folge dem Link zu Paypal oder sprich mich nach meiner Bankverbindung an.
 
 https://www.paypal.me/pixelSpreadde
 
-## Fragen
+## Kontakt
 
 Sascha Brandhoff<br>
-Mühlweg 3a<br>
-D-35260 Stadtallendorf<br>
-Telefon: 06428-9269660<br>
-Mobil:   0152-27676083<br>
+Telefon: 0152-27676083<br>
+E-Mail: sascha.brandhoff@gmail.com<br>
+Twitter: @saschabrandhoff
