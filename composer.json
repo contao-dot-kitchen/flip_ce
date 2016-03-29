@@ -3,7 +3,7 @@
 	"description":"Made a 3D-Flip-Effect with Contao like a VCard",
 	"keywords":["contao","flip", "jquery"],
 	"type":"contao-module",
-	"homepage":"",
+	"homepage":"http://www.pixelspread.de/contao-modules/",
 	"license":"LGPLv3",
 	"authors":[
 		{
@@ -20,7 +20,7 @@
 	},
 	"require":{
 		"php":">=5.3",
-		"contao/core": ">=3.4,<3.5"
+		"contao/core": ">=3.4,<3.6"
 	},
 	"replace":{
 		"sascha-brandhoff/flip_ce":"self.version"
